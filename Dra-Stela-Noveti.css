@@ -298,7 +298,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1301px;
+    min-height: 1393px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -360,7 +360,8 @@
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 386px;
+    min-height: 307px;
+    margin-top: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -390,6 +391,7 @@
 
   .u-section-1 .u-image-3 {
     height: 561px;
+    margin-top: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
