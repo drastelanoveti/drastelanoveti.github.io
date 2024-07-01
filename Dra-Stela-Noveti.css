@@ -1457,34 +1457,39 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 966px;
+    min-height: 976px;
   }
 
   .u-section-3 .u-group-1 {
-    margin-top: 60px;
+    margin-top: 61px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: 28px;
+    margin-top: 12px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 403px;
+    min-height: 397px;
   }
 
   .u-section-3 .u-image-1 {
-    margin-top: 19px;
+    height: 410px;
+    margin-top: 23px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 370px;
+    min-height: 365px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-bottom: 0;
   }
 } .u-section-4 {
   background-image: linear-gradient(white, #054a71);
